@@ -12,7 +12,7 @@ class _frmManTipoUsuario extends State<frmManTipoUsuario> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Mantenimiento tipo usuarios"),
+        title: Text("Mantenimiento tipo usuarios cambio 2"),
       ),
       body: Column(children: [
         TextField(
